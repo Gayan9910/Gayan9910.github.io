@@ -1,29 +1,30 @@
-# PROPESIONAL DEVELOP PLAN 
-
-
 <!DOCTYPE html>
 <html>
 <head>
   <style>
+    table,td,th{
+      border: 2px solid black;
+    }
     table {
-      width: 100%;
+      width: 75%;
       border-collapse: collapse;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
+
     th, td {
-      border: 1px solid #999;
-      padding: 8px;
+      border: 10px solid #999;
+      padding: 10px;
       text-align: left;
     }
 
     th {
-      background-color:rgb(0, 40, 171);
+      background-color:rgb(53, 172, 231);
     }
 
     .section-title {
       font-weight: bold;
-      margin-top: 10px;
+      margin-top: 20px;
       font-size: 18px;
     }
 
@@ -35,25 +36,25 @@
 </head>
 <body>
 
-
+<h2>Professional Development Plan Template</h2>
 
 <table>
   <tr>
-    <td><strong>Employee name:Gayan</strong></td>
+    <td><strong>Employee name</strong></td>
     <td></td>
-    <td><strong> Job title: NON </strong></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Department: IT </strong></td>
-    <td></td>
-    <td><strong>Direct supervisor: chalaka rathnayaka </strong></td>
+    <td><strong>Job title</strong></td>
     <td></td>
   </tr>
   <tr>
-    <td><strong>Start date: 2025/4/5</strong></td>
+    <td><strong>Department</strong></td>
     <td></td>
-    <td><strong>Review date: </strong></td>
+    <td><strong>Direct supervisor</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Start date</strong></td>
+    <td></td>
+    <td><strong>Review date</strong></td>
     <td></td>
   </tr>
 </table>
@@ -62,8 +63,8 @@
 <div class="note">What are your desired career advancements goals for the next 12 months?</div>
 <ol>
   <li>Get promoted to a leadership position</li>
-  <li>[complete my  internship ]</li>
-  <li>[]</li>
+  <li>[Enter goal]</li>
+  <li>[Enter goal]</li>
 </ol>
 
 <div class="section-title">Skill development</div>
@@ -108,4 +109,3 @@
 
 </body>
 </html>
-
