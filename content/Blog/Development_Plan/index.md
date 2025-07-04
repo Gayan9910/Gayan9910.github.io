@@ -1,7 +1,8 @@
 ---
 title: "Creating a Learning and Development Plan"
 date: 2025-07-04
-draft: false
+cover:
+      image:"dev.png"
 ---
 
 ## Introduction
