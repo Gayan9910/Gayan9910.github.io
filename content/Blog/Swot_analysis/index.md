@@ -11,7 +11,7 @@ cover:
 
 
 ### "SWOT Analysis for an Academic/Professional Career"
-date: 2025-07-04
+
 
 
 ## Introduction
@@ -24,7 +24,7 @@ Career development is not just about acquiring technical knowledge—it’s also
 
 **SWOT Analysis** helps evaluate internal and external factors that affect your progress.
 
-### 🔹 Strengths
+###  Strengths
 - **Technical Aptitude**: Strong interest in programming, networking, and embedded systems.
 - **Self-Learning Ability**: Ability to explore and learn through online platforms like Coursera, Udemy, and YouTube.
 - **Discipline**: Punctual with task completion and efficient in time management.
