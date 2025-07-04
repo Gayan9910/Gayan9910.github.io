@@ -1,4 +1,9 @@
-title: "SWOT Analysis for an Academic/Professional Career"
+##### Figure 1: Swot analysis 
+
+![](Swot.png)
+
+
+### "SWOT Analysis for an Academic/Professional Career"
 date: 2025-07-04
 
 
