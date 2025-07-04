@@ -68,6 +68,8 @@ params:
               url: books/
             - name: Courses
               url: courses/
+            - name: Showt 
+              url: Showt/
             - name: Tags
               url: tags/
             - name: Archive
