@@ -1,3 +1,10 @@
+---
+title: "SWOT Analysis" 
+date: 2025-07-03 
+cover:
+    image: "Swot.png"
+
+---
 ##### Figure 1: Swot analysis 
 
 ![](Swot.png)
