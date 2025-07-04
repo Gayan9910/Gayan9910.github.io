@@ -10,7 +10,7 @@ SMART Goal Setting
 - **Relevant**: Aligns with interest in embedded systems and real-world applications in agriculture/aquaculture.
 - **Time-bound**: Completed within 6 months (July–December 2025).
 
-### 🎯 Career SMART Goal
+ Career SMART Goal
 
 - **Specific**: Secure an internship in an IT company related to IoT or cloud computing.
 - **Measurable**: Apply to at least 15 positions by October 2025.
