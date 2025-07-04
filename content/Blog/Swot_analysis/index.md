@@ -4,7 +4,7 @@ date: 2025-07-04
 
 ## Introduction
 
-Career development is not just about acquiring technical knowledge—it’s also about understanding yourself, identifying opportunities, and setting realistic goals. Two essential tools that support this process are **SWOT Analysis** and **SMART Goal Setting**. These tools help you reflect, plan, and act in a structured way that enhances your academic and professional journey.
+Career development is not just about acquiring technical knowledge—it’s also about understanding yourself, identifying opportunities, and setting realistic goals. Two essential tools that support this process are **SWOT Analysis**. These tools help you reflect, plan, and act in a structured way that enhances your academic and professional journey.
 
 
 
