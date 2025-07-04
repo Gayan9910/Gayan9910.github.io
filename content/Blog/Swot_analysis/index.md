@@ -1,18 +1,18 @@
-Title: "SWOT Analysis for an Academic/Professional Career"
+title: "SWOT Analysis for an Academic/Professional Career"
 date: 2025-07-04
-draft: false
----
+
 
 ## Introduction
 
-Career development is not just about acquiring technical knowledge—it’s also about understanding yourself, identifying opportunities, and setting realistic goals. Two essential tools that support this process are **SWOT Analysis**. These tools help you reflect, plan, and act in a structured way that enhances your academic and professional journey.
+Career development is not just about acquiring technical knowledge—it’s also about understanding yourself, identifying opportunities, and setting realistic goals. Two essential tools that support this process are **SWOT Analysis** and **SMART Goal Setting**. These tools help you reflect, plan, and act in a structured way that enhances your academic and professional journey.
+
 
 
 ## SWOT Analysis
 
- **SWOT Analysis** helps evaluate internal and external factors that affect your progress.
+**SWOT Analysis** helps evaluate internal and external factors that affect your progress.
 
-###  Strengths
+### 🔹 Strengths
 - **Technical Aptitude**: Strong interest in programming, networking, and embedded systems.
 - **Self-Learning Ability**: Ability to explore and learn through online platforms like Coursera, Udemy, and YouTube.
 - **Discipline**: Punctual with task completion and efficient in time management.
