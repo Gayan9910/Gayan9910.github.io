@@ -5,8 +5,7 @@ cover:
     image: "Swot.png"
 
 ---
-##### Figure 1: Swot analysis 
-
+ 
 ![](Swot.png)
 
 
