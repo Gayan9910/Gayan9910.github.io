@@ -6,6 +6,8 @@ cover:
 
 ---
 
+![](smart_goal.png)
+
 ## SMART Goal Setting
 
 **SMART** goals are those that are **Specific, Measurable, Achievable, Relevant, and Time-bound**.
