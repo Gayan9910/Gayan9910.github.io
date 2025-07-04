@@ -2,8 +2,10 @@
 title: "Creating a Learning and Development Plan"
 date: 2025-07-04
 cover:
-      image:"dev.png"
+    image: "dev.png"
 ---
+![](dev.png)
+
 
 ## Introduction
 
